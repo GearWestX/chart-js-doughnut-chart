@@ -1,4 +1,4 @@
-# Doughnut chart | Kronoscode Financial Benefits
+# Doughnut chart |  Financial Benefits example
 
 * Basic Doughnut graph using Chart.Js, JavaScript ES7 and custom CSS for sizing and centering
 
@@ -6,7 +6,7 @@
 
 * git clone this main repository and *badam tuss* see for yourself the chart with values and animations
 * If you want to change the values take a look at the following code in the *script.js* file:
-```
+```javascript
 
 const myChart = new Chart(context, {
   type: "doughnut",
