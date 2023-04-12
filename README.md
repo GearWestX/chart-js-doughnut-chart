@@ -1,6 +1,7 @@
 # Doughnut chart |  Financial Benefits example
 
-* Basic Doughnut graph using Chart.Js, JavaScript ES7 and custom CSS for sizing and centering
+Basic Doughnut graph for a freelancing project using Chart.Js, JavaScript ES7 and custom CSS for sizing and centering
+### To look at the end results [Click here](https://penair.pixelspoke-staging.com/default-template/)
 
 # To use it
 
@@ -43,6 +44,6 @@ const myChart = new Chart(context, {
 
 # Additional Note
 
-* Is not a complete page, the main purpose is to use the chart as a boiler plate or template to play around and for own purposes.
+* It was done for a contribution to a main company page. Feel free to use this as a boiler plate or template for your own purposes.
 
 
